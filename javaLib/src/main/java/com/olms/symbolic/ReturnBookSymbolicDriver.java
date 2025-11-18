@@ -7,8 +7,6 @@ import gov.nasa.jpf.symbc.Debug;
 
 import java.io.IOException;
 import java.lang.reflect.Field;
-import java.nio.file.Files;
-import java.nio.file.Path;
 import java.util.Map;
 import java.util.concurrent.CountDownLatch;
 
@@ -20,6 +18,11 @@ import java.util.concurrent.CountDownLatch;
  */
 public class ReturnBookSymbolicDriver {
 
+    static {
+        ensureSystemProperty("os.name", "Linux");
+        ensureSystemProperty("java.io.tmpdir", ".");
+    }
+
     private static final int PRIMARY_BOOK_ID = 9001;
     private static final int UNUSED_BOOK_ID = 9015;
 
@@ -29,8 +32,7 @@ public class ReturnBookSymbolicDriver {
     private int syntheticUserCounter = 0;
 
     public ReturnBookSymbolicDriver() throws IOException {
-        Path dataDir = Files.createTempDirectory("javalib-symbc");
-        this.store = new LibraryStore(dataDir);
+        this.store = LibraryStore.inMemory();
         initializeCatalog();
         this.validCustomerId = registerCustomer("returner-primary");
         this.otherCustomerId = registerCustomer("returner-secondary");
@@ -91,7 +93,7 @@ public class ReturnBookSymbolicDriver {
     }
 
     private int resolveBookId(int rawMode) {
-        int choice = Math.abs(rawMode % 3);
+        int choice = categorizeChoice(rawMode);
         switch (choice) {
             case 0:
                 return PRIMARY_BOOK_ID; // valid rental
@@ -103,7 +105,7 @@ public class ReturnBookSymbolicDriver {
     }
 
     private int resolveCustomerId(int rawMode) {
-        int choice = Math.abs(rawMode % 3);
+        int choice = categorizeChoice(rawMode);
         switch (choice) {
             case 0:
                 return validCustomerId;
@@ -116,6 +118,15 @@ public class ReturnBookSymbolicDriver {
                     throw new IllegalStateException("Unable to register symbolic customer", e);
                 }
         }
+    }
+
+    private int categorizeChoice(int rawValue) {
+        if (rawValue <= 0) {
+            return 0;
+        } else if (rawValue == 1) {
+            return 1;
+        }
+        return 2;
     }
 
     @SuppressWarnings("unchecked")
@@ -170,6 +181,11 @@ public class ReturnBookSymbolicDriver {
             this.threadLabel = threadLabel;
         }
     }
-}
 
+    private static void ensureSystemProperty(String key, String fallbackValue) {
+        if (System.getProperty(key) == null || System.getProperty(key).trim().isEmpty()) {
+            System.setProperty(key, fallbackValue);
+        }
+    }
+}
 
