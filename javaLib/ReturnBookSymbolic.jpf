@@ -1,0 +1,15 @@
+target = com.olms.symbolic.ReturnBookSymbolicDriver
+
+classpath = ${jpf-symbc}/build/examples
+sourcepath = ${jpf-symbc}/src/examples
+
+symbolic.method = com.olms.symbolic.ReturnBookSymbolicDriver.runSymbolicReturnScenario()
+symbolic.min_int = -3
+symbolic.max_int = 3
+
+listener = gov.nasa.jpf.symbc.SymbolicListener,gov.nasa.jpf.listener.CoverageAnalyzer
+coverage.include = com.olms.symbolic.*
+coverage.show_methods = true
+
+search.multiple_errors = true
+
