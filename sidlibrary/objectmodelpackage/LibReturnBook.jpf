@@ -7,16 +7,26 @@ classpath = ${jpf-symbc}/build/examples
 # Path to source code
 sourcepath = ${jpf-symbc}/src/examples
 
-# Define symbolic variables in the method under test
-symbolic.method = sidlibrary.objectmodelpackage.LibReturnBook.testReturnBook()
+# Define symbolic variables in the unified test method for path exploration
+symbolic.method = sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified()
 
 # Symbolic string variables created via Debug.makeSymbolicString
 symbolic.string_dp = true
 
-# Integer ranges
-symbolic.minint = -100
-symbolic.maxint = 100
+# Integer ranges for polymorphic type selection and path control
+# Library type: 0-3, Book type: 0-4, Student type: 0-4
+# Path control: 0-1 (boolean-like)
+# Note: Symbolic execution will explore all branches based on these constraints
+symbolic.minint = 0
+symbolic.maxint = 10
 symbolic.undefined = -1000
+
+# Use default solver (Z3 has issues with mixed int/double constraints)
+# symbolic.dp = z3
+# symbolic.dp.z3 = true
+
+# Enable path exploration
+search.multiple_errors = true
 
 # Coverage listener (optional but useful for insights)
 listener = gov.nasa.jpf.symbc.sequences.SymbolicSequenceListener,gov.nasa.jpf.listener.CoverageAnalyzer
