@@ -25,6 +25,7 @@ public class LibReturnBook {
         int hasLibraryCard = Debug.makeSymbolicInteger("hasLibraryCard"); // 0=no card, 1=has card
         int hasBookIssued = Debug.makeSymbolicInteger("hasBookIssued"); // 0=not issued, 1=issued
         int correctBookName = Debug.makeSymbolicInteger("correctBookName"); // 0=wrong book, 1=correct book
+        int forceLateReturn = Debug.makeSymbolicInteger("forceLateReturn"); // 0=on time, 1=late return
         
         String libraryName = Debug.makeSymbolicString("libraryName");
         String bookName = Debug.makeSymbolicString("bookName");
@@ -108,19 +109,64 @@ public class LibReturnBook {
                 issueBook(library, bookName, studentId);                
                 Book issuedBook = checkBookAvailable(library, bookName);
                 if (issuedBook != null && student != null) {
-                    issuedBook.setBorrowDate("01/06/2021");
-                    issuedBook.setReturnDate("15/06/2021");
+                    // FORCE LATE RETURNS: Use symbolic constraint to test calculateFine branches
+                    // Today's date in calculateFine is hardcoded as "26/06/2021"
+                    // returnDate is the EXPECTED return date (when book should be returned)
+                    // calculateFine compares: returnDate - today
+                    // If returnDate < today (days < 0): book is LATE -> triggers fine calculation (line 328)
+                    // If returnDate >= today (days >= 0): book is ON TIME -> no fine
+                    
+                    SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
+                    Calendar c = Calendar.getInstance();
+                    
+                    // Set borrow date to a fixed past date (June 1, 2021)
+                    String borrowDateStr = "01/06/2021";
+                    issuedBook.setBorrowDate(borrowDateStr);
+                    
+                    // Expected return date = borrowDate + maxDays (12 days for COMSATS)
+                    // So expected return = June 13, 2021
+                    c.set(2021, 5, 1); // June 1, 2021 (month is 0-indexed, so 5 = June)
+                    c.add(Calendar.DATE, 12); // Add maxDays (12)
+                    String expectedReturnDateStr = sdf.format(c.getTime()); // "13/06/2021"
+                    
+                    // FORCE LATE RETURN: Use constraint to ensure returnDate < today
+                    // Constraint: if forceLateReturn == 1, then days_borrowed > limit (12 days)
+                    // This ensures the book is returned late, triggering the fine calculation
+                    if (forceLateReturn == 1) {
+                        // Force late: set returnDate to a date before today (26/06/2021)
+                        // Expected return (13/06) is already before today (26/06), so it's late
+                        // This will trigger the branch at line 328: if (days < 0)
+                        issuedBook.setReturnDate(expectedReturnDateStr); // "13/06/2021" < "26/06/2021" = LATE
+                        // Add constraint: ensure we're testing late return scenario
+                        // The date comparison in calculateFine will be: 13/06 - 26/06 = -13 days (late)
+                    } else {
+                        // Force on-time: set returnDate to today or future to avoid fine
+                        // This tests the branch where days >= 0 (no fine)
+                        c.set(2021, 5, 26); // June 26, 2021 (today) - on time
+                        String onTimeReturnDateStr = sdf.format(c.getTime());
+                        issuedBook.setReturnDate(onTimeReturnDateStr); // "26/06/2021" >= "26/06/2021" = ON TIME
+                    }
+                    
                     issuedBook.setPendingReturn(true);
                     issuedBook.setBorrowerId(studentId);
                     student.addBookToIssueList(issuedBook);
                 }
             }
         }        
+        
+        // NEGATIVE TEST: Try to return book even when not borrowed
+        // This forces error branches in returnBook when book is not in student's issued list
         String returnBookName = bookName;
         if (correctBookName == 0 && hasStudent == 1 && student != null) {
             returnBookName = Debug.makeSymbolicString("wrongBookName");
         }
+        // Always call returnBook to test both positive and negative cases
+        // When hasBookIssued == 0, this tests the negative case (book not borrowed)
         returnBook(library, studentId, returnBookName);        
+        // DEPRECATED: Borrowable and Searchable interfaces show 0% coverage
+        // These interfaces are not implemented by any Book classes, creating noise
+        // Commented out to focus on actual code paths
+        /*
         if (book instanceof Borrowable) {
             Borrowable borrowable = (Borrowable) book;
             String borrowerId = Debug.makeSymbolicString("borrowerId");
@@ -131,6 +177,7 @@ public class LibReturnBook {
                 double fee = borrowable.calculateLateFee(overdueDays);
             }
         }        
+        */
         if (book instanceof Renewable) {
             Renewable renewable = (Renewable) book;
             String borrowerId = Debug.makeSymbolicString("borrowerId");
@@ -145,6 +192,8 @@ public class LibReturnBook {
             boolean isReserved = reservable.isReserved();
             String nextReserver = reservable.getNextReserver();
         }        
+        /*
+        // DEPRECATED: Searchable interface shows 0% coverage - not implemented by any Book classes
         if (book instanceof Searchable) {
             Searchable searchable = (Searchable) book;
             String query = Debug.makeSymbolicString("query");
@@ -152,6 +201,7 @@ public class LibReturnBook {
             double score = searchable.getRelevanceScore(query);
             String content = searchable.getSearchableContent();
         }
+        */
         if (student instanceof LibraryMember) {
             LibraryMember member = (LibraryMember) student;
             String memberId = member.getMemberId();

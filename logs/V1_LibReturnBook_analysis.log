@@ -16,7 +16,7 @@ JavaPathfinder core system v8.0 (rev ) - (C) 2005-2014 United States Government.
 ====================================================== system under test
 sidlibrary.objectmodelpackage.LibReturnBook.main()
 
-====================================================== search started: 11/23/25 1:19 AM
+====================================================== search started: 11/23/25 12:50 AM
 Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
 Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
 Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
@@ -256,112 +256,113 @@ public class sidlibrary_objectmodelpackage_LibReturnBookTest {
 -------------------------------------------- class coverage ------------------------------------------------
 bytecode            line                basic-block         branch              methods             location
 ------------------------------------------------------------------------------------------------------------
-0.76 (693/907)      0.71 (176/249)      0.73 (240/327)      0.60 (31/52)        0.58 (11/19)        sidlibrary.objectmodelpackage.LibReturnBook
+0.77 (700/910)      0.71 (178/252)      0.74 (244/329)      0.57 (31/54)        0.58 (11/19)        sidlibrary.objectmodelpackage.LibReturnBook
   0.00 (0/3)          0.00 (0/1)          0.00 (0/2)           -                   -                  <init>()
                                                                                     at sidlibrary.objectmodelpackage.LibReturnBook.<init>(LibReturnBook.java:8) 
   0.00 (0/11)         0.00 (0/3)          0.00 (0/5)          0.00 (0/1)           -                  maxBookStudentCanIssue(String,String,String)
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.maxBookStudentCanIssue(LibReturnBook.java:297) 
-                                                                                    .. sidlibrary.objectmodelpackage.LibReturnBook.maxBookStudentCanIssue(LibReturnBook.java:300) 
-                                                                                    N at sidlibrary.objectmodelpackage.LibReturnBook.maxBookStudentCanIssue(LibReturnBook.java:297) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.maxBookStudentCanIssue(LibReturnBook.java:247) 
+                                                                                    .. sidlibrary.objectmodelpackage.LibReturnBook.maxBookStudentCanIssue(LibReturnBook.java:250) 
+                                                                                    N at sidlibrary.objectmodelpackage.LibReturnBook.maxBookStudentCanIssue(LibReturnBook.java:247) 
   0.00 (0/21)         0.00 (0/7)          0.00 (0/9)          0.00 (0/1)           -                  testBorrowableInterface(Borrowable)
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testBorrowableInterface(LibReturnBook.java:362) 
-                                                                                    .. sidlibrary.objectmodelpackage.LibReturnBook.testBorrowableInterface(LibReturnBook.java:369) 
-                                                                                    N at sidlibrary.objectmodelpackage.LibReturnBook.testBorrowableInterface(LibReturnBook.java:363) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testBorrowableInterface(LibReturnBook.java:312) 
+                                                                                    .. sidlibrary.objectmodelpackage.LibReturnBook.testBorrowableInterface(LibReturnBook.java:319) 
+                                                                                    N at sidlibrary.objectmodelpackage.LibReturnBook.testBorrowableInterface(LibReturnBook.java:313) 
   0.00 (0/22)         0.00 (0/7)          0.00 (0/7)           -                   -                  testInstituteAbstractMethods(Institute,String,String)
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testInstituteAbstractMethods(LibReturnBook.java:404) 
-                                                                                    .. sidlibrary.objectmodelpackage.LibReturnBook.testInstituteAbstractMethods(LibReturnBook.java:410) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testInstituteAbstractMethods(LibReturnBook.java:354) 
+                                                                                    .. sidlibrary.objectmodelpackage.LibReturnBook.testInstituteAbstractMethods(LibReturnBook.java:360) 
   0.00 (0/17)         0.00 (0/7)          0.00 (0/7)          0.00 (0/1)           -                  testLibraryMemberInterface(LibraryMember,Library)
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testLibraryMemberInterface(LibReturnBook.java:378) 
-                                                                                    .. sidlibrary.objectmodelpackage.LibReturnBook.testLibraryMemberInterface(LibReturnBook.java:385) 
-                                                                                    N at sidlibrary.objectmodelpackage.LibReturnBook.testLibraryMemberInterface(LibReturnBook.java:381) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testLibraryMemberInterface(LibReturnBook.java:328) 
+                                                                                    .. sidlibrary.objectmodelpackage.LibReturnBook.testLibraryMemberInterface(LibReturnBook.java:335) 
+                                                                                    N at sidlibrary.objectmodelpackage.LibReturnBook.testLibraryMemberInterface(LibReturnBook.java:331) 
   0.00 (0/19)         0.00 (0/6)          0.00 (0/6)           -                   -                  testLibraryPolymorphism(Library)
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testLibraryPolymorphism(LibReturnBook.java:396) 
-                                                                                    .. sidlibrary.objectmodelpackage.LibReturnBook.testLibraryPolymorphism(LibReturnBook.java:401) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testLibraryPolymorphism(LibReturnBook.java:346) 
+                                                                                    .. sidlibrary.objectmodelpackage.LibReturnBook.testLibraryPolymorphism(LibReturnBook.java:351) 
   0.00 (0/12)         0.00 (0/4)          0.00 (0/4)           -                   -                  testSearchableInterface(Searchable,String)
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testSearchableInterface(LibReturnBook.java:372) 
-                                                                                    .. sidlibrary.objectmodelpackage.LibReturnBook.testSearchableInterface(LibReturnBook.java:375) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testSearchableInterface(LibReturnBook.java:322) 
+                                                                                    .. sidlibrary.objectmodelpackage.LibReturnBook.testSearchableInterface(LibReturnBook.java:325) 
   0.00 (0/18)         0.00 (0/6)          0.00 (0/6)           -                   -                  testStudentPolymorphism(Student)
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testStudentPolymorphism(LibReturnBook.java:388) 
-                                                                                    .. sidlibrary.objectmodelpackage.LibReturnBook.testStudentPolymorphism(LibReturnBook.java:393) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testStudentPolymorphism(LibReturnBook.java:338) 
+                                                                                    .. sidlibrary.objectmodelpackage.LibReturnBook.testStudentPolymorphism(LibReturnBook.java:343) 
   0.24 (16/66)        0.20 (3/15)         0.23 (7/30)         0.00 (0/5)           -                  issueBook(Library,String,String)
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.issueBook(LibReturnBook.java:278) 
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.issueBook(LibReturnBook.java:282) 
-                                                                                    .. sidlibrary.objectmodelpackage.LibReturnBook.issueBook(LibReturnBook.java:291) 
-                                                                                    T at sidlibrary.objectmodelpackage.LibReturnBook.issueBook(LibReturnBook.java:278) 
-                                                                                    F at sidlibrary.objectmodelpackage.LibReturnBook.issueBook(LibReturnBook.java:281) 
-                                                                                    N at sidlibrary.objectmodelpackage.LibReturnBook.issueBook(LibReturnBook.java:283) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.issueBook(LibReturnBook.java:228) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.issueBook(LibReturnBook.java:232) 
+                                                                                    .. sidlibrary.objectmodelpackage.LibReturnBook.issueBook(LibReturnBook.java:241) 
+                                                                                    T at sidlibrary.objectmodelpackage.LibReturnBook.issueBook(LibReturnBook.java:228) 
+                                                                                    F at sidlibrary.objectmodelpackage.LibReturnBook.issueBook(LibReturnBook.java:231) 
+                                                                                    N at sidlibrary.objectmodelpackage.LibReturnBook.issueBook(LibReturnBook.java:233) 
   0.54 (26/48)        0.60 (9/15)         0.56 (10/18)        0.00 (0/2)           -                  addBookFunction(Library,Book)
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.addBookFunction(LibReturnBook.java:240) 
-                                                                                    .. sidlibrary.objectmodelpackage.LibReturnBook.addBookFunction(LibReturnBook.java:247) 
-                                                                                    T at sidlibrary.objectmodelpackage.LibReturnBook.addBookFunction(LibReturnBook.java:238) 
-                                                                                    N at sidlibrary.objectmodelpackage.LibReturnBook.addBookFunction(LibReturnBook.java:241) 
-  0.79 (45/57)        0.86 (12/14)        0.65 (11/17)        1.00 (1/1)           -                  calculateFine(Student,String,String)
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.calculateFine(LibReturnBook.java:346) x
-                                                                                    .. sidlibrary.objectmodelpackage.LibReturnBook.calculateFine(LibReturnBook.java:347) x
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.calculateFine(LibReturnBook.java:341) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.addBookFunction(LibReturnBook.java:190) 
+                                                                                    .. sidlibrary.objectmodelpackage.LibReturnBook.addBookFunction(LibReturnBook.java:197) 
+                                                                                    T at sidlibrary.objectmodelpackage.LibReturnBook.addBookFunction(LibReturnBook.java:188) 
+                                                                                    N at sidlibrary.objectmodelpackage.LibReturnBook.addBookFunction(LibReturnBook.java:191) 
+  0.79 (45/57)        0.79 (11/14)        0.65 (11/17)        0.00 (0/1)           -                  calculateFine(Student,String,String)
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.calculateFine(LibReturnBook.java:296) x
+                                                                                    .. sidlibrary.objectmodelpackage.LibReturnBook.calculateFine(LibReturnBook.java:297) x
+                                                                                    F at sidlibrary.objectmodelpackage.LibReturnBook.calculateFine(LibReturnBook.java:291) 
   0.95 (19/20)        0.60 (3/5)          0.91 (10/11)        0.50 (1/2)           -                  findStudent(String)
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.findStudent(LibReturnBook.java:308) 
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.findStudent(LibReturnBook.java:304) 
-                                                                                    F at sidlibrary.objectmodelpackage.LibReturnBook.findStudent(LibReturnBook.java:305) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.findStudent(LibReturnBook.java:258) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.findStudent(LibReturnBook.java:254) 
+                                                                                    F at sidlibrary.objectmodelpackage.LibReturnBook.findStudent(LibReturnBook.java:255) 
   0.96 (53/55)        0.86 (12/14)        0.96 (25/26)        0.60 (3/5)           -                  returnBook(Library,String,String)
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.returnBook(LibReturnBook.java:264) 
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.returnBook(LibReturnBook.java:258) 
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.returnBook(LibReturnBook.java:260) 
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.returnBook(LibReturnBook.java:261) 
-                                                                                    F at sidlibrary.objectmodelpackage.LibReturnBook.returnBook(LibReturnBook.java:264) 
-                                                                                    F at sidlibrary.objectmodelpackage.LibReturnBook.returnBook(LibReturnBook.java:266) 
-  0.99 (472/476)      0.95 (120/126)      0.99 (145/147)      0.79 (23/29)         -                  testReturnBookUnified()
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:185) 
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:52) 
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:54) 
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:56) 
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:58) 
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:71) 
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:73) 
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:76) 
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:78) 
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:80) 
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:90) 
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:91) 
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:93) 
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:95) 
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:97) 
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:99) 
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:105) 
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:108) 
-                                                                                    F at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:111) 
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:135) 
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:160) 
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:181) 
-                                                                                    T at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:184) 
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:188) 
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:205) 
-                                                                                    F at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:210) 
-                                                                                    F at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:215) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.returnBook(LibReturnBook.java:214) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.returnBook(LibReturnBook.java:208) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.returnBook(LibReturnBook.java:210) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.returnBook(LibReturnBook.java:211) 
+                                                                                    F at sidlibrary.objectmodelpackage.LibReturnBook.returnBook(LibReturnBook.java:214) 
+                                                                                    F at sidlibrary.objectmodelpackage.LibReturnBook.returnBook(LibReturnBook.java:216) 
   1.00 (3/3)          1.00 (1/1)          1.00 (1/1)           -                   -                  <clinit>()
   1.00 (7/7)          1.00 (3/3)          1.00 (3/3)           -                   -                  addStudents(Student)
   1.00 (39/39)        0.89 (8/9)          1.00 (20/20)        0.75 (3/4)           -                  checkBookAvailable(Library,String)
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.checkBookAvailable(LibReturnBook.java:314) 
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.checkBookAvailable(LibReturnBook.java:315) 
-                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.checkBookAvailable(LibReturnBook.java:316) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.checkBookAvailable(LibReturnBook.java:264) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.checkBookAvailable(LibReturnBook.java:265) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.checkBookAvailable(LibReturnBook.java:266) 
   1.00 (11/11)        0.75 (3/4)          1.00 (6/6)          0.00 (0/1)           -                  issueLibraryCard(Library,String)
-                                                                                    F at sidlibrary.objectmodelpackage.LibReturnBook.issueLibraryCard(LibReturnBook.java:353) 
+                                                                                    F at sidlibrary.objectmodelpackage.LibReturnBook.issueLibraryCard(LibReturnBook.java:303) 
   1.00 (2/2)          1.00 (2/2)          1.00 (2/2)           -                   -                  main(String[])
+  1.00 (479/479)      0.95 (123/129)      1.00 (149/149)      0.77 (24/31)         -                  testReturnBookUnified()
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:51) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:53) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:55) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:57) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:70) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:72) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:75) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:77) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:79) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:89) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:90) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:92) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:94) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:96) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:98) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:104) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:107) 
+                                                                                    F at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:110) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:120) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:124) 
+                                                                                    F at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:127) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:134) 
+                                                                                    F at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:137) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:141) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:148) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:155) 
+                                                                                    F at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:160) 
+                                                                                    F at sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnified(LibReturnBook.java:165) 
 
 ------------------------------------------------------------------------------------------------------------
-0.76 (693/907)      0.71 (176/249)      0.73 (240/327)      0.60 (31/52)        0.58 (11/19)        1.00 (1/1)         total
+0.77 (700/910)      0.71 (178/252)      0.74 (244/329)      0.57 (31/54)        0.58 (11/19)        1.00 (1/1)         total
 
 ====================================================== results
 no errors detected
 
 ====================================================== statistics
-elapsed time:       00:00:21
-states:             new=6240,visited=0,backtracked=6240,end=2940
+elapsed time:       00:00:20
+states:             new=7600,visited=0,backtracked=7600,end=3300
 search:             maxDepth=23,constraints=0
-choice generators:  thread=361 (signal=0,lock=1,sharedRef=0,threadApi=0,reschedule=360), data=2940
-heap:               new=520888,released=192879,maxLive=1658,gcCycles=5497
-instructions:       25837065
-max memory:         416MB
-loaded code:        classes=177,methods=3475
+choice generators:  thread=1 (signal=0,lock=1,sharedRef=0,threadApi=0,reschedule=0), data=4300
+heap:               new=950820,released=264939,maxLive=1623,gcCycles=5857
+instructions:       37513848
+max memory:         419MB
+loaded code:        classes=175,methods=3470
 
-====================================================== search finished: 11/23/25 1:20 AM
+====================================================== search finished: 11/23/25 12:50 AM

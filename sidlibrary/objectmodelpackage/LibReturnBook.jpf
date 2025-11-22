@@ -13,12 +13,18 @@ symbolic.method = sidlibrary.objectmodelpackage.LibReturnBook.testReturnBookUnif
 # Symbolic string variables created via Debug.makeSymbolicString
 symbolic.string_dp = true
 
+# OPTIMIZE STRINGS: Restrict symbolic string length to reduce state space bloat
+# This allows the engine to focus on logic paths rather than string permutations
+symbolic.string_length = 10
+symbolic.string_max_length = 20
+
 # Integer ranges for polymorphic type selection and path control
 # Library type: 0-3, Book type: 0-4, Student type: 0-4
 # Path control: 0-1 (boolean-like)
+# daysBorrowed: 0-30 to cover both on-time and late return scenarios
 # Note: Symbolic execution will explore all branches based on these constraints
 symbolic.minint = 0
-symbolic.maxint = 10
+symbolic.maxint = 30
 symbolic.undefined = -1000
 
 # Use default solver (Z3 has issues with mixed int/double constraints)
