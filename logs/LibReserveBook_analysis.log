@@ -1,0 +1,115 @@
+symbolic.min_int=-2147483648
+symbolic.min_long=-9223372036854775808
+symbolic.min_short=-32768
+symbolic.min_byte=-128
+symbolic.min_char=0
+symbolic.max_int=2147483647
+symbolic.max_long=9223372036854775807
+symbolic.max_short=32767
+symbolic.max_byte=127
+symbolic.max_char=65535
+symbolic.min_double=4.9E-324
+symbolic.max_double=1.7976931348623157E308
+JavaPathfinder core system v8.0 (rev ) - (C) 2005-2014 United States Government. All rights reserved.
+
+
+====================================================== system under test
+sidlibrary.objectmodelpackage.LibReserveBook.main()
+
+====================================================== search started: 11/23/25 8:26 PM
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+
+====================================================== Method Sequences
+[testReserveBookUnified()]
+
+====================================================== JUnit 4.0 test class
+import static org.junit.Assert.*;
+import org.junit.Before;
+import org.junit.Test;
+
+public class sidlibrary_objectmodelpackage_LibReserveBookTest {
+
+	private sidlibrary.objectmodelpackage.LibReserveBook sidlibrary_objectmodelpackage_libreservebook;
+
+	@Before
+	public void setUp() throws Exception {
+		sidlibrary_objectmodelpackage_libreservebook = new sidlibrary.objectmodelpackage.LibReserveBook();
+	}
+
+	@Test
+	public void test0() {
+		sidlibrary_objectmodelpackage_libreservebook.testReserveBookUnified();
+	}
+}
+
+====================================================== coverage statistics
+
+-------------------------------------------- class coverage ------------------------------------------------
+bytecode            line                basic-block         branch              methods             location
+------------------------------------------------------------------------------------------------------------
+0.93 (405/436)      0.88 (110/125)      0.91 (144/158)      0.68 (21/31)        0.83 (5/6)          sidlibrary.objectmodelpackage.LibReserveBook
+  0.00 (0/3)          0.00 (0/1)          0.00 (0/2)           -                   -                  <init>()
+                                                                                    at sidlibrary.objectmodelpackage.LibReserveBook.<init>(LibReserveBook.java:7) 
+  0.54 (26/48)        0.60 (9/15)         0.56 (10/18)        0.00 (0/2)           -                  addBookFunction(Library,Book)
+                                                                                    at sidlibrary.objectmodelpackage.LibReserveBook.addBookFunction(LibReserveBook.java:180) 
+                                                                                    .. sidlibrary.objectmodelpackage.LibReserveBook.addBookFunction(LibReserveBook.java:186) 
+                                                                                    T at sidlibrary.objectmodelpackage.LibReserveBook.addBookFunction(LibReserveBook.java:179) 
+                                                                                    N at sidlibrary.objectmodelpackage.LibReserveBook.addBookFunction(LibReserveBook.java:181) 
+  0.86 (30/35)        0.71 (5/7)          0.85 (17/20)        0.50 (2/4)           -                  checkBookAvailable(Library,String)
+                                                                                    at sidlibrary.objectmodelpackage.LibReserveBook.checkBookAvailable(LibReserveBook.java:197) 
+                                                                                    .. sidlibrary.objectmodelpackage.LibReserveBook.checkBookAvailable(LibReserveBook.java:198) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReserveBook.checkBookAvailable(LibReserveBook.java:195) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReserveBook.checkBookAvailable(LibReserveBook.java:196) 
+                                                                                    T at sidlibrary.objectmodelpackage.LibReserveBook.checkBookAvailable(LibReserveBook.java:197) 
+  1.00 (328/329)      0.94 (88/94)        0.99 (109/110)      0.76 (19/25)         -                  testReserveBookUnified()
+                                                                                    at sidlibrary.objectmodelpackage.LibReserveBook.testReserveBookUnified(LibReserveBook.java:116) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReserveBook.testReserveBookUnified(LibReserveBook.java:36) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReserveBook.testReserveBookUnified(LibReserveBook.java:38) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReserveBook.testReserveBookUnified(LibReserveBook.java:40) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReserveBook.testReserveBookUnified(LibReserveBook.java:42) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReserveBook.testReserveBookUnified(LibReserveBook.java:56) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReserveBook.testReserveBookUnified(LibReserveBook.java:63) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReserveBook.testReserveBookUnified(LibReserveBook.java:67) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReserveBook.testReserveBookUnified(LibReserveBook.java:70) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReserveBook.testReserveBookUnified(LibReserveBook.java:73) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReserveBook.testReserveBookUnified(LibReserveBook.java:77) 
+                                                                                    F at sidlibrary.objectmodelpackage.LibReserveBook.testReserveBookUnified(LibReserveBook.java:86) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReserveBook.testReserveBookUnified(LibReserveBook.java:91) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReserveBook.testReserveBookUnified(LibReserveBook.java:93) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReserveBook.testReserveBookUnified(LibReserveBook.java:104) 
+                                                                                    F at sidlibrary.objectmodelpackage.LibReserveBook.testReserveBookUnified(LibReserveBook.java:116) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReserveBook.testReserveBookUnified(LibReserveBook.java:119) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReserveBook.testReserveBookUnified(LibReserveBook.java:129) 
+                                                                                    F at sidlibrary.objectmodelpackage.LibReserveBook.testReserveBookUnified(LibReserveBook.java:137) 
+                                                                                    at sidlibrary.objectmodelpackage.LibReserveBook.testReserveBookUnified(LibReserveBook.java:141) 
+                                                                                    F at sidlibrary.objectmodelpackage.LibReserveBook.testReserveBookUnified(LibReserveBook.java:148) 
+                                                                                    F at sidlibrary.objectmodelpackage.LibReserveBook.testReserveBookUnified(LibReserveBook.java:160) 
+  1.00 (2/2)          1.00 (2/2)          1.00 (2/2)           -                   -                  main(String[])
+  1.00 (19/19)        1.00 (6/6)          1.00 (6/6)           -                   -                  testLibraryPolymorphism(Library)
+
+------------------------------------------------------------------------------------------------------------
+0.93 (405/436)      0.88 (110/125)      0.91 (144/158)      0.68 (21/31)        0.83 (5/6)          1.00 (1/1)         total
+
+====================================================== results
+no errors detected
+
+====================================================== statistics
+elapsed time:       00:00:03
+states:             new=1560,visited=0,backtracked=1560,end=780
+search:             maxDepth=15,constraints=0
+choice generators:  thread=1 (signal=0,lock=1,sharedRef=0,threadApi=0,reschedule=0), data=780
+heap:               new=52677,released=42784,maxLive=590,gcCycles=1397
+instructions:       622673
+max memory:         339MB
+loaded code:        classes=99,methods=2191
+
+====================================================== search finished: 11/23/25 8:26 PM

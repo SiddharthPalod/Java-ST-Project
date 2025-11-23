@@ -1,0 +1,127 @@
+symbolic.min_int=-2147483648
+symbolic.min_long=-9223372036854775808
+symbolic.min_short=-32768
+symbolic.min_byte=-128
+symbolic.min_char=0
+symbolic.max_int=2147483647
+symbolic.max_long=9223372036854775807
+symbolic.max_short=32767
+symbolic.max_byte=127
+symbolic.max_char=65535
+symbolic.min_double=4.9E-324
+symbolic.max_double=1.7976931348623157E308
+JavaPathfinder core system v8.0 (rev ) - (C) 2005-2014 United States Government. All rights reserved.
+
+
+====================================================== system under test
+sidlibrary.objectmodelpackage.LibIssueCard.main()
+
+====================================================== search started: 11/23/25 8:26 PM
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+
+====================================================== Method Sequences
+[testIssueCardUnified()]
+
+====================================================== JUnit 4.0 test class
+import static org.junit.Assert.*;
+import org.junit.Before;
+import org.junit.Test;
+
+public class sidlibrary_objectmodelpackage_LibIssueCardTest {
+
+	private sidlibrary.objectmodelpackage.LibIssueCard sidlibrary_objectmodelpackage_libissuecard;
+
+	@Before
+	public void setUp() throws Exception {
+		sidlibrary_objectmodelpackage_libissuecard = new sidlibrary.objectmodelpackage.LibIssueCard();
+	}
+
+	@Test
+	public void test0() {
+		sidlibrary_objectmodelpackage_libissuecard.testIssueCardUnified();
+	}
+}
+
+====================================================== coverage statistics
+
+-------------------------------------------- class coverage ------------------------------------------------
+bytecode            line                basic-block         branch              methods             location
+------------------------------------------------------------------------------------------------------------
+0.99 (383/386)      0.96 (110/114)      0.99 (132/134)      0.88 (22/25)        0.88 (7/8)          sidlibrary.objectmodelpackage.LibIssueCard
+  0.00 (0/3)          0.00 (0/1)          0.00 (0/2)           -                   -                  <init>()
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueCard.<init>(LibIssueCard.java:7) 
+  1.00 (7/7)          1.00 (3/3)          1.00 (3/3)           -                   -                  addStudents(Student)
+  1.00 (20/20)        1.00 (5/5)          1.00 (11/11)        1.00 (2/2)           -                  findStudent(String)
+  1.00 (11/11)        0.75 (3/4)          1.00 (6/6)          0.00 (0/1)           -                  issueLibraryCard(Library,String)
+                                                                                    F at sidlibrary.objectmodelpackage.LibIssueCard.issueLibraryCard(LibIssueCard.java:168) 
+  1.00 (2/2)          1.00 (2/2)          1.00 (2/2)           -                   -                  main(String[])
+  1.00 (306/306)      0.98 (85/87)        1.00 (98/98)        0.91 (20/22)         -                  testIssueCardUnified()
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueCard.testIssueCardUnified(LibIssueCard.java:40) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueCard.testIssueCardUnified(LibIssueCard.java:42) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueCard.testIssueCardUnified(LibIssueCard.java:44) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueCard.testIssueCardUnified(LibIssueCard.java:46) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueCard.testIssueCardUnified(LibIssueCard.java:56) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueCard.testIssueCardUnified(LibIssueCard.java:57) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueCard.testIssueCardUnified(LibIssueCard.java:59) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueCard.testIssueCardUnified(LibIssueCard.java:61) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueCard.testIssueCardUnified(LibIssueCard.java:63) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueCard.testIssueCardUnified(LibIssueCard.java:65) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueCard.testIssueCardUnified(LibIssueCard.java:73) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueCard.testIssueCardUnified(LibIssueCard.java:80) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueCard.testIssueCardUnified(LibIssueCard.java:85) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueCard.testIssueCardUnified(LibIssueCard.java:91) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueCard.testIssueCardUnified(LibIssueCard.java:98) 
+                                                                                    F at sidlibrary.objectmodelpackage.LibIssueCard.testIssueCardUnified(LibIssueCard.java:114) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueCard.testIssueCardUnified(LibIssueCard.java:119) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueCard.testIssueCardUnified(LibIssueCard.java:124) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueCard.testIssueCardUnified(LibIssueCard.java:129) 
+                                                                                    F at sidlibrary.objectmodelpackage.LibIssueCard.testIssueCardUnified(LibIssueCard.java:139) 
+  1.00 (19/19)        1.00 (6/6)          1.00 (6/6)           -                   -                  testLibraryPolymorphism(Library)
+  1.00 (18/18)        1.00 (6/6)          1.00 (6/6)           -                   -                  testStudentPolymorphism(Student)
+
+------------------------------------------------------------------------------------------------------------
+0.99 (383/386)      0.96 (110/114)      0.99 (132/134)      0.88 (22/25)        0.88 (7/8)          1.00 (1/1)         total
+
+====================================================== results
+no errors detected
+
+====================================================== statistics
+elapsed time:       00:00:01
+states:             new=680,visited=0,backtracked=680,end=340
+search:             maxDepth=16,constraints=0
+choice generators:  thread=1 (signal=0,lock=1,sharedRef=0,threadApi=0,reschedule=0), data=340
+heap:               new=14125,released=11524,maxLive=578,gcCycles=617
+instructions:       242939
+max memory:         212MB
+loaded code:        classes=99,methods=2232
+
+====================================================== search finished: 11/23/25 8:26 PM
