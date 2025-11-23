@@ -1,0 +1,1902 @@
+symbolic.min_int=-2147483648
+symbolic.min_long=-9223372036854775808
+symbolic.min_short=-32768
+symbolic.min_byte=-128
+symbolic.min_char=0
+symbolic.max_int=2147483647
+symbolic.max_long=9223372036854775807
+symbolic.max_short=32767
+symbolic.max_byte=127
+symbolic.max_char=65535
+symbolic.min_double=4.9E-324
+symbolic.max_double=1.7976931348623157E308
+JavaPathfinder core system v8.0 (rev ) - (C) 2005-2014 United States Government. All rights reserved.
+
+
+====================================================== system under test
+sidlibrary.objectmodelpackage.LibAddBook.main()
+
+====================================================== search started: 11/23/25 8:23 PM
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+Book added: RegularBook, RegularAuthor
+Textbook added: Textbook, TextAuthor, Subject: Math, Edition: 1st
+Novel added: Novel, NovelAuthor, Genre: Fiction
+Reference book added: RefBook, RefAuthor, Type: Encyclopedia
+EBook added: EBook, EAuthor, Format: PDF, Size: 1024 bytes
+
+====================================================== Method Sequences
+[testAddBookUnified()]
+
+====================================================== JUnit 4.0 test class
+import static org.junit.Assert.*;
+import org.junit.Before;
+import org.junit.Test;
+
+public class sidlibrary_objectmodelpackage_LibAddBookTest {
+
+	private sidlibrary.objectmodelpackage.LibAddBook sidlibrary_objectmodelpackage_libaddbook;
+
+	@Before
+	public void setUp() throws Exception {
+		sidlibrary_objectmodelpackage_libaddbook = new sidlibrary.objectmodelpackage.LibAddBook();
+	}
+
+	@Test
+	public void test0() {
+		sidlibrary_objectmodelpackage_libaddbook.testAddBookUnified();
+	}
+}
+
+====================================================== coverage statistics
+
+-------------------------------------------- class coverage ------------------------------------------------
+bytecode            line                basic-block         branch              methods             location
+------------------------------------------------------------------------------------------------------------
+0.99 (501/504)      0.94 (132/141)      0.99 (170/172)      0.71 (20/28)        0.86 (6/7)          sidlibrary.objectmodelpackage.LibAddBook
+  0.00 (0/3)          0.00 (0/1)          0.00 (0/2)           -                   -                  <init>()
+                                                                                    at sidlibrary.objectmodelpackage.LibAddBook.<init>(LibAddBook.java:7) 
+  1.00 (48/48)        0.93 (14/15)        1.00 (18/18)        0.50 (1/2)           -                  addBookFunction(Library,Book)
+                                                                                    at sidlibrary.objectmodelpackage.LibAddBook.addBookFunction(LibAddBook.java:173) 
+                                                                                    F at sidlibrary.objectmodelpackage.LibAddBook.addBookFunction(LibAddBook.java:175) 
+  1.00 (35/35)        0.86 (6/7)          1.00 (20/20)        0.75 (3/4)           -                  checkBookAvailable(Library,String)
+                                                                                    at sidlibrary.objectmodelpackage.LibAddBook.checkBookAvailable(LibAddBook.java:189) 
+                                                                                    at sidlibrary.objectmodelpackage.LibAddBook.checkBookAvailable(LibAddBook.java:190) 
+                                                                                    at sidlibrary.objectmodelpackage.LibAddBook.checkBookAvailable(LibAddBook.java:191) 
+  1.00 (2/2)          1.00 (2/2)          1.00 (2/2)           -                   -                  main(String[])
+  1.00 (345/345)      0.94 (93/99)        1.00 (113/113)      0.73 (16/22)         -                  testAddBookUnified()
+                                                                                    at sidlibrary.objectmodelpackage.LibAddBook.testAddBookUnified(LibAddBook.java:34) 
+                                                                                    at sidlibrary.objectmodelpackage.LibAddBook.testAddBookUnified(LibAddBook.java:36) 
+                                                                                    at sidlibrary.objectmodelpackage.LibAddBook.testAddBookUnified(LibAddBook.java:38) 
+                                                                                    at sidlibrary.objectmodelpackage.LibAddBook.testAddBookUnified(LibAddBook.java:40) 
+                                                                                    at sidlibrary.objectmodelpackage.LibAddBook.testAddBookUnified(LibAddBook.java:53) 
+                                                                                    at sidlibrary.objectmodelpackage.LibAddBook.testAddBookUnified(LibAddBook.java:55) 
+                                                                                    at sidlibrary.objectmodelpackage.LibAddBook.testAddBookUnified(LibAddBook.java:58) 
+                                                                                    at sidlibrary.objectmodelpackage.LibAddBook.testAddBookUnified(LibAddBook.java:60) 
+                                                                                    at sidlibrary.objectmodelpackage.LibAddBook.testAddBookUnified(LibAddBook.java:62) 
+                                                                                    at sidlibrary.objectmodelpackage.LibAddBook.testAddBookUnified(LibAddBook.java:69) 
+                                                                                    at sidlibrary.objectmodelpackage.LibAddBook.testAddBookUnified(LibAddBook.java:73) 
+                                                                                    F at sidlibrary.objectmodelpackage.LibAddBook.testAddBookUnified(LibAddBook.java:75) 
+                                                                                    at sidlibrary.objectmodelpackage.LibAddBook.testAddBookUnified(LibAddBook.java:86) 
+                                                                                    F at sidlibrary.objectmodelpackage.LibAddBook.testAddBookUnified(LibAddBook.java:95) 
+                                                                                    F at sidlibrary.objectmodelpackage.LibAddBook.testAddBookUnified(LibAddBook.java:102) 
+                                                                                    at sidlibrary.objectmodelpackage.LibAddBook.testAddBookUnified(LibAddBook.java:109) 
+                                                                                    F at sidlibrary.objectmodelpackage.LibAddBook.testAddBookUnified(LibAddBook.java:112) 
+                                                                                    at sidlibrary.objectmodelpackage.LibAddBook.testAddBookUnified(LibAddBook.java:121) 
+                                                                                    F at sidlibrary.objectmodelpackage.LibAddBook.testAddBookUnified(LibAddBook.java:124) 
+                                                                                    at sidlibrary.objectmodelpackage.LibAddBook.testAddBookUnified(LibAddBook.java:130) 
+                                                                                    at sidlibrary.objectmodelpackage.LibAddBook.testAddBookUnified(LibAddBook.java:139) 
+                                                                                    F at sidlibrary.objectmodelpackage.LibAddBook.testAddBookUnified(LibAddBook.java:151) 
+  1.00 (52/52)        1.00 (11/11)        1.00 (11/11)         -                   -                  testAddDifferentBookTypes(Library)
+  1.00 (19/19)        1.00 (6/6)          1.00 (6/6)           -                   -                  testLibraryPolymorphism(Library)
+
+------------------------------------------------------------------------------------------------------------
+0.99 (501/504)      0.94 (132/141)      0.99 (170/172)      0.71 (20/28)        0.86 (6/7)          1.00 (1/1)         total
+
+====================================================== results
+no errors detected
+
+====================================================== statistics
+elapsed time:       00:00:04
+states:             new=720,visited=0,backtracked=720,end=300
+search:             maxDepth=16,constraints=0
+choice generators:  thread=1 (signal=0,lock=1,sharedRef=0,threadApi=0,reschedule=0), data=420
+heap:               new=68661,released=37654,maxLive=674,gcCycles=577
+instructions:       2497392
+max memory:         414MB
+loaded code:        classes=103,methods=2253
+
+====================================================== search finished: 11/23/25 8:23 PM

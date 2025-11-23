@@ -1,0 +1,43 @@
+# Target class
+target = sidlibrary.objectmodelpackage.LibIssueCard
+
+# Set the classpath to point to your compiled classes (update accordingly)
+classpath = ${jpf-symbc}/build/examples
+
+# Path to source code
+sourcepath = ${jpf-symbc}/src/examples
+
+# Define symbolic variables in the unified test method for path exploration
+symbolic.method = sidlibrary.objectmodelpackage.LibIssueCard.testIssueCardUnified()
+
+# Symbolic string variables created via Debug.makeSymbolicString
+symbolic.string_dp = true
+
+# OPTIMIZE STRINGS: Restrict symbolic string length to reduce state space bloat
+# This allows the engine to focus on logic paths rather than string permutations
+symbolic.string_length = 10
+symbolic.string_max_length = 20
+
+# Integer ranges for polymorphic type selection and path control
+# Library type: 0-3, Student type: 0-4
+# Path control: 0-1 (boolean-like)
+# Note: Symbolic execution will explore all branches based on these constraints
+symbolic.minint = 0
+symbolic.maxint = 30
+symbolic.undefined = -1000
+
+# Use default solver (Z3 has issues with mixed int/double constraints)
+# symbolic.dp = z3
+# symbolic.dp.z3 = true
+
+# Enable path exploration
+search.multiple_errors = true
+
+# Coverage listener (optional but useful for insights)
+listener = gov.nasa.jpf.symbc.sequences.SymbolicSequenceListener,gov.nasa.jpf.listener.CoverageAnalyzer
+
+# Show method coverage
+coverage.include = *.LibIssueCard
+coverage.show_methods = true
+coverage.show_bodies = true
+

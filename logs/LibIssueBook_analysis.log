@@ -1,0 +1,1599 @@
+symbolic.min_int=-2147483648
+symbolic.min_long=-9223372036854775808
+symbolic.min_short=-32768
+symbolic.min_byte=-128
+symbolic.min_char=0
+symbolic.max_int=2147483647
+symbolic.max_long=9223372036854775807
+symbolic.max_short=32767
+symbolic.max_byte=127
+symbolic.max_char=65535
+symbolic.min_double=4.9E-324
+symbolic.max_double=1.7976931348623157E308
+JavaPathfinder core system v8.0 (rev ) - (C) 2005-2014 United States Government. All rights reserved.
+
+
+====================================================== system under test
+sidlibrary.objectmodelpackage.LibIssueBook.main()
+
+====================================================== search started: 11/23/25 8:13 PM
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: TempBook0, TempAuthor0
+Book added: TempBook1, TempAuthor1
+Book added: TempBook2, TempAuthor2
+Book added: TempBook3, TempAuthor3
+Book added: TempBook4, TempAuthor4
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Textbook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Subject: WWWWW's Birthday is 12-17-77, Edition: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Novel added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Genre: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Reference book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Type: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+EBook added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Format: WWWWW's Birthday is 12-17-77, Size: 0 bytes
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Book added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+Undergraduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Year: 0, Major: WWWWW's Birthday is 12-17-77
+Graduate student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Research: WWWWW's Birthday is 12-17-77, Advisor: WWWWW's Birthday is 12-17-77
+PhD student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Dissertation: WWWWW's Birthday is 12-17-77, Years: 0
+Exchange student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77, Home: WWWWW's Birthday is 12-17-77, Program: WWWWW's Birthday is 12-17-77
+Student added: WWWWW's Birthday is 12-17-77, WWWWW's Birthday is 12-17-77
+
+====================================================== Method Sequences
+[testIssueBookUnified()]
+
+====================================================== JUnit 4.0 test class
+import static org.junit.Assert.*;
+import org.junit.Before;
+import org.junit.Test;
+
+public class sidlibrary_objectmodelpackage_LibIssueBookTest {
+
+	private sidlibrary.objectmodelpackage.LibIssueBook sidlibrary_objectmodelpackage_libissuebook;
+
+	@Before
+	public void setUp() throws Exception {
+		sidlibrary_objectmodelpackage_libissuebook = new sidlibrary.objectmodelpackage.LibIssueBook();
+	}
+
+	@Test
+	public void test0() {
+		sidlibrary_objectmodelpackage_libissuebook.testIssueBookUnified();
+	}
+}
+
+====================================================== coverage statistics
+
+-------------------------------------------- class coverage ------------------------------------------------
+bytecode            line                basic-block         branch              methods             location
+------------------------------------------------------------------------------------------------------------
+0.89 (683/764)      0.87 (177/204)      0.87 (243/279)      0.76 (37/49)        0.92 (12/13)        sidlibrary.objectmodelpackage.LibIssueBook
+  0.00 (0/3)          0.00 (0/1)          0.00 (0/2)           -                   -                  <init>()
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.<init>(LibIssueBook.java:8) 
+  0.26 (17/66)        0.33 (5/15)         0.27 (8/30)         0.40 (2/5)           -                  issueBook(Library,String,String)
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.issueBook(LibIssueBook.java:217) 
+                                                                                    .. sidlibrary.objectmodelpackage.LibIssueBook.issueBook(LibIssueBook.java:226) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.issueBook(LibIssueBook.java:213) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.issueBook(LibIssueBook.java:216) 
+                                                                                    N at sidlibrary.objectmodelpackage.LibIssueBook.issueBook(LibIssueBook.java:218) 
+  0.54 (26/48)        0.60 (9/15)         0.56 (10/18)        0.00 (0/2)           -                  addBookFunction(Library,Book)
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.addBookFunction(LibIssueBook.java:267) 
+                                                                                    .. sidlibrary.objectmodelpackage.LibIssueBook.addBookFunction(LibIssueBook.java:273) 
+                                                                                    T at sidlibrary.objectmodelpackage.LibIssueBook.addBookFunction(LibIssueBook.java:266) 
+                                                                                    N at sidlibrary.objectmodelpackage.LibIssueBook.addBookFunction(LibIssueBook.java:268) 
+  0.82 (9/11)         0.33 (1/3)          0.80 (4/5)          0.00 (0/1)           -                  maxBookStudentCanIssue(String,String,String)
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.maxBookStudentCanIssue(LibIssueBook.java:235) 
+                                                                                    F at sidlibrary.objectmodelpackage.LibIssueBook.maxBookStudentCanIssue(LibIssueBook.java:232) 
+  0.95 (19/20)        0.60 (3/5)          0.91 (10/11)        0.50 (1/2)           -                  findStudent(String)
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.findStudent(LibIssueBook.java:243) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.findStudent(LibIssueBook.java:239) 
+                                                                                    F at sidlibrary.objectmodelpackage.LibIssueBook.findStudent(LibIssueBook.java:240) 
+  0.99 (513/517)      0.96 (129/134)      0.99 (167/169)      0.88 (30/34)         -                  testIssueBookUnified()
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:166) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:53) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:55) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:57) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:59) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:72) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:74) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:77) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:79) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:81) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:88) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:93) 
+                                                                                    F at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:95) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:104) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:105) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:107) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:109) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:111) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:113) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:121) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:126) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:129) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:130) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:141) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:149) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:152) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:162) 
+                                                                                    T at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:165) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:171) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:180) 
+                                                                                    F at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:185) 
+                                                                                    F at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:192) 
+                                                                                    at sidlibrary.objectmodelpackage.LibIssueBook.testIssueBookUnified(LibIssueBook.java:205) 
+  1.00 (3/3)          1.00 (1/1)          1.00 (1/1)           -                   -                  <clinit>()
+  1.00 (7/7)          1.00 (3/3)          1.00 (3/3)           -                   -                  addStudents(Student)
+  1.00 (39/39)        1.00 (9/9)          1.00 (20/20)        1.00 (4/4)           -                  checkBookAvailable(Library,String)
+  1.00 (11/11)        0.75 (3/4)          1.00 (6/6)          0.00 (0/1)           -                  issueLibraryCard(Library,String)
+                                                                                    F at sidlibrary.objectmodelpackage.LibIssueBook.issueLibraryCard(LibIssueBook.java:288) 
+  1.00 (2/2)          1.00 (2/2)          1.00 (2/2)           -                   -                  main(String[])
+  1.00 (19/19)        1.00 (6/6)          1.00 (6/6)           -                   -                  testLibraryPolymorphism(Library)
+  1.00 (18/18)        1.00 (6/6)          1.00 (6/6)           -                   -                  testStudentPolymorphism(Student)
+
+------------------------------------------------------------------------------------------------------------
+0.89 (683/764)      0.87 (177/204)      0.87 (243/279)      0.76 (37/49)        0.92 (12/13)        1.00 (1/1)         total
+
+====================================================== results
+no errors detected
+
+====================================================== statistics
+elapsed time:       00:00:14
+states:             new=26760,visited=0,backtracked=26760,end=11880
+search:             maxDepth=25,constraints=0
+choice generators:  thread=1 (signal=0,lock=1,sharedRef=0,threadApi=0,reschedule=0), data=14880
+heap:               new=492530,released=541813,maxLive=694,gcCycles=20107
+instructions:       10385507
+max memory:         416MB
+loaded code:        classes=110,methods=2357
+
+====================================================== search finished: 11/23/25 8:13 PM
