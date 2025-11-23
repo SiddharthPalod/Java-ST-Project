@@ -175,6 +175,119 @@ public class LibReturnBook {
         }
     }
 
+    // ================= NEW SYMBOLIC DRIVER FOR ISSUE BOOK =================
+    public static void testIssueBook() {
+        // Symbolic selectors for object kinds
+        int libraryType = Debug.makeSymbolicInteger("issue_libraryType");
+        int bookType = Debug.makeSymbolicInteger("issue_bookType");
+        int studentType = Debug.makeSymbolicInteger("issue_studentType");
+
+        // Symbolic flags controlling presence/state
+        int hasStudent = Debug.makeSymbolicInteger("issue_hasStudent"); // 0=no student, 1=has student
+        int hasLibraryCard = Debug.makeSymbolicInteger("issue_hasLibraryCard"); // 0=no card, 1=has card
+        int attemptIssue = Debug.makeSymbolicInteger("issue_attemptIssue"); // 0=skip issue, 1=attempt
+
+        // Core symbolic data
+        String libraryName = Debug.makeSymbolicString("issue_libraryName");
+        String bookName = Debug.makeSymbolicString("issue_bookName");
+        String bookAuthor = Debug.makeSymbolicString("issue_bookAuthor");
+        String studentId = Debug.makeSymbolicString("issue_studentId");
+        String studentName = Debug.makeSymbolicString("issue_studentName");
+        String studentProgram = Debug.makeSymbolicString("issue_studentProgram");
+
+        // Extended attributes for specialised book/student types
+        String bookSubject = Debug.makeSymbolicString("issue_bookSubject");
+        String bookGenre = Debug.makeSymbolicString("issue_bookGenre");
+        String bookCategory = Debug.makeSymbolicString("issue_bookCategory");
+        String bookFormat = Debug.makeSymbolicString("issue_bookFormat");
+        int bookSize = Debug.makeSymbolicInteger("issue_bookSize");
+
+        int studentYear = Debug.makeSymbolicInteger("issue_studentYear");
+        String studentMajor = Debug.makeSymbolicString("issue_studentMajor");
+        String researchArea = Debug.makeSymbolicString("issue_researchArea");
+        String advisor = Debug.makeSymbolicString("issue_advisor");
+        String dissertation = Debug.makeSymbolicString("issue_dissertation");
+        String homeUni = Debug.makeSymbolicString("issue_homeUni");
+        String exchangeProgram = Debug.makeSymbolicString("issue_exchangeProgram");
+        int duration = Debug.makeSymbolicInteger("issue_duration");
+
+        // Construct library polymorphically
+        Library library;
+        if (libraryType == 0) {
+            library = new Library(libraryName);
+        } else if (libraryType == 1) {
+            library = new UniversityLibrary(libraryName);
+        } else if (libraryType == 2) {
+            library = new PublicLibrary(libraryName);
+        } else if (libraryType == 3) {
+            library = new DigitalLibrary(libraryName);
+        } else {
+            library = new Library(libraryName); // default
+        }
+        comsatsLibrary = library;
+
+        // Prepare catalog
+        Books books = new Books();
+        books.setBooks(new Book().displayBooks());
+        library.addBookToLibrary(books);
+        booksArrayList = library.getBooksArrayList();
+
+        // Create symbolic book instance
+        Book book;
+        if (bookType == 0) {
+            book = new Book(bookName, bookAuthor);
+        } else if (bookType == 1) {
+            String edition = Debug.makeSymbolicString("issue_edition");
+            book = new Textbook(bookName, bookAuthor, bookSubject, edition);
+        } else if (bookType == 2) {
+            book = new Novel(bookName, bookAuthor, bookGenre);
+        } else if (bookType == 3) {
+            book = new ReferenceBook(bookName, bookAuthor, bookCategory);
+        } else if (bookType == 4) {
+            book = new EBook(bookName, bookAuthor, bookFormat, bookSize);
+        } else {
+            book = new Book(bookName, bookAuthor); // default
+        }
+        addBookFunction(library, book);
+
+        // Students collection
+        students = new ArrayList<>();
+        Student student = null;
+        if (hasStudent == 1) {
+            if (studentType == 0) {
+                student = new Student(studentName, studentId, studentProgram);
+            } else if (studentType == 1) {
+                student = new Undergraduate(studentName, studentId, studentProgram, studentYear, studentMajor);
+            } else if (studentType == 2) {
+                student = new Graduate(studentName, studentId, studentProgram, researchArea, advisor);
+            } else if (studentType == 3) {
+                student = new PhDStudent(studentName, studentId, studentProgram, researchArea, advisor, dissertation);
+            } else if (studentType == 4) {
+                student = new ExchangeStudent(studentName, studentId, studentProgram, homeUni, exchangeProgram, duration);
+            } else {
+                student = new Student(studentName, studentId, studentProgram); // default
+            }
+            addStudents(student);
+            if (hasLibraryCard == 1) {
+                issueLibraryCard(library, studentId);
+            }
+        }
+
+        // Attempt issuance under varying preconditions
+        if (attemptIssue == 1) {
+            issueBook(library, bookName, studentId);
+        }
+
+        // Lightweight post-condition exploration
+        Book postBook = checkBookAvailable(library, bookName);
+        int probe = Debug.makeSymbolicInteger("issue_probe");
+        if (postBook != null && probe == 1) {
+            // Access a few attributes to keep them in path conditions
+            String borrower = postBook.getBorrowerId();
+            boolean pending = postBook.isPendingReturn();
+        }
+    }
+
     public static void addBookFunction(Library lib, Book book) {
         //@ assume book != null;
         book.addBook();
