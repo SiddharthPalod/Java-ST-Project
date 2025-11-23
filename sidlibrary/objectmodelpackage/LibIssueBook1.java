@@ -4,7 +4,7 @@ import gov.nasa.jpf.symbc.Debug;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
-public class LibIssueBook {
+public class LibIssueBook1 {
     // Static state replicated from LibReturnBook needed for symbolic driver
     private static ArrayList<Student> students;
     private static Library comsatsLibrary;
