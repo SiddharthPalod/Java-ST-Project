@@ -163,4 +163,20 @@ This driver tests the book search functionality.
 - **Covered Branches**: The execution successfully tested searching for various books by title and author, including cases where the book is found and not found.
 - **Uncovered Branches**: The remaining uncovered branches are in the `addBookFunction`, which is used to populate the library for the test.
 
+## Conclusion
+
+This analysis demonstrates the power of Symbolic PathFinder (SPF) in rigorously testing the Java Library Management System. By replacing concrete inputs with symbolic variables, SPF automatically explored numerous execution paths, systematically testing the complex logic of the application.
+
+The primary benefit of this approach was the ability to achieve high branch coverage. For each path it explored, SPF generated a set of constraints that were then solved to produce concrete test cases. These test cases effectively targeted specific conditions—such as different student types, book availability, and fine calculations—ensuring that a wide variety of scenarios were validated. The evolution from `LibReturnBook` V1 to V2 clearly showed how refining symbolic drivers can significantly increase this coverage.
+
+In essence, symbolic execution served as both a powerful analysis tool and an automated test case generator, providing high confidence in the system's correctness by ensuring its critical logic paths were thoroughly exercised.
+
+## Contributors
+
+This project was a collaborative effort. The core Java application and the symbolic test drivers were developed and analyzed by the following contributors:
+
+-   **Siddharth Palod (IMT2022002)**: Developed and symbolically tested the programs for renewing, reserving, returning, and searching books (`LibRenewBook.java`, `LibReserveBook.java`, `LibReturnBook.java`, `LibSearchBook.java`).
+-   **Shreyas S (IMT2022078)**: Developed and symbolically tested the programs for adding books and students, and issuing books and library cards (`LibAddBook.java`, `LibAddStudent.java`, `LibIssueBook.java`, `LibIssueCard.java`).
+
+
 
