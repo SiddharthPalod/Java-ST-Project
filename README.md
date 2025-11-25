@@ -91,15 +91,8 @@ This driver tests the logic for issuing a book to a student.
 - **Branch Coverage**: 
     - `testIssueBookUnified`: **55% branch coverage (22/40 branches)**.
     - `checkBookAvailable`: **75% branch coverage (3/4 branches)**.
-    - `findStudent`: **0% branch coverage (0/2 branches)**.
-    - `issueLibraryCard`: **0% branch coverage (0/1 branches)**.
-    - `maxBookStudentCanIssue`: **0% branch coverage (0/1 branches)**.
+
 - **Covered Branches**: The execution covered scenarios where a book is available and the student is eligible to borrow it. It explored different student and book types.
-- **Uncovered Branches**: Many branches remain uncovered, particularly those related to error conditions like:
-    - Student not found.
-    - Book not found.
-    - Student has reached their borrowing limit.
-    - Book is not available for borrowing.
 
 ## LibReturnBook Evolution (V1 → V2)
 A comparative analysis of two versions of the `testReturnBookUnified` driver highlights significant improvements in test coverage and code structure.
