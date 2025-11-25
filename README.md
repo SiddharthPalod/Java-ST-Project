@@ -75,19 +75,15 @@ The symbolic execution of `testAddBookUnified` explores the logic for adding dif
 
 - **Branch Coverage**: 
     - `testAddBookUnified`: **70% branch coverage (16/23 branches)**.
-    - `addBookFunction`: **0% branch coverage (0/2 branches)**.
     - `checkBookAvailable`: **75% branch coverage (3/4 branches)**.
 - **Covered Branches**: The execution successfully explored paths for adding `Book`, `Textbook`, `Novel`, `ReferenceBook`, and `EBook` objects, including the polymorphic behavior in `testAddDifferentBookTypes` and `testLibraryPolymorphism`.
-- **Uncovered Branches**: The uncovered branches are primarily in the `addBookFunction` and `checkBookAvailable` methods, where conditions for a book already existing or the library being full were not fully explored.
 
 ## LibAddStudent (testAddStudentUnified)
 The `testAddStudentUnified` driver focuses on adding various student types to the system.
 
 - **Branch Coverage**: 
     - `testAddStudentUnified`: **72% branch coverage (18/25 branches)**.
-    - `findStudent`: **0% branch coverage (0/2 branches)**.
 - **Covered Branches**: The analysis covered adding `Student`, `Undergraduate`, `Graduate`, `PhDStudent`, and `ExchangeStudent`. It also covered the polymorphic behavior in `testStudentPolymorphism`.
-- **Uncovered Branches**: The uncovered branches are in the `findStudent` method, specifically the paths where a student is not found.
 
 ## LibIssueBook (testIssueBookUnified)
 This driver tests the logic for issuing a book to a student.
@@ -118,56 +114,44 @@ A comparative analysis of two versions of the `testReturnBookUnified` driver hig
 - **V2 Improvements**: The second version introduced more detailed symbolic variables and flags, allowing SPF to explore a much wider range of scenarios, including different fine amounts and student-specific rules. This led to a dramatic increase in branch coverage. The branch coverage for called methods in V2 is:
     - `calculateFine`: **100% branch coverage (2/2 branches)**.
     - `returnBook`: **62% branch coverage (5/8 branches)**.
-    - `findStudent`: **0% branch coverage (0/2 branches)**.
 
 ## LibIssueCard (testIssueCardUnified)
-This driver tests issuing a library card to a student.
+This driver tests the issuance of a library card to a student.
 
 - **Branch Coverage**: 
     - `testIssueCardUnified`: **88% branch coverage (22/25 branches)**.
     - `findStudent`: **100% branch coverage (2/2 branches)**.
-    - `issueLibraryCard`: **0% branch coverage (0/1 branches)**.
 - **Covered Branches**: The execution successfully tested issuing cards to different student types and in different library types.
-- **Uncovered Branches**: The few uncovered branches relate to the `issueLibraryCard` method, specifically the case where a student is not found.
 
 ## LibRenewBook (testRenewBookUnified)
 This driver tests the book renewal logic.
 
 - **Branch Coverage**: 
     - `testRenewBookUnified`: **52% branch coverage (17/33 branches)**.
-    - `addBookFunction`: **0% branch coverage (0/2 branches)**.
     - `checkBookAvailable`: **75% branch coverage (3/4 branches)**.
-    - `findStudent`: **0% branch coverage (0/2 branches)**.
-    - `issueBook`: **0% branch coverage (0/5 branches)**.
-    - `issueLibraryCard`: **0% branch coverage (0/1 branches)**.
 - **Covered Branches**: The analysis covered basic renewal scenarios.
-- **Uncovered Branches**: A significant number of branches were not covered, especially in the `issueBook` and `maxBookStudentCanIssue` methods which are part of the renewal logic. This indicates that the test driver is not adequately exercising the constraints related to issuing and renewing books.
 
 ## LibReserveBook (testReserveBookUnified)
 This driver is for reserving a book.
 
 - **Branch Coverage**: 
     - `testReserveBookUnified`: **76% branch coverage (19/25 branches)**.
-    - `addBookFunction`: **0% branch coverage (0/2 branches)**.
     - `checkBookAvailable`: **50% branch coverage (2/4 branches)**.
 - **Covered Branches**: The driver successfully tested reserving different book types.
-- **Uncovered Branches**: The uncovered branches are mainly in the `addBookFunction` and `checkBookAvailable` methods, similar to `LibAddBook`.
 
 ## LibSearchBook (testSearchBookUnified)
 This driver tests the book search functionality.
 
 - **Branch Coverage**: 
     - `testSearchBookUnified`: **90% branch coverage (27/30 branches)**.
-    - `addBookFunction`: **0% branch coverage (0/2 branches)**.
     - `checkBookAvailable`: **75% branch coverage (3/4 branches)**.
 - **Covered Branches**: The execution successfully tested searching for various books by title and author, including cases where the book is found and not found.
-- **Uncovered Branches**: The remaining uncovered branches are in the `addBookFunction`, which is used to populate the library for the test.
 
 ## Conclusion
 
 This analysis demonstrates the power of Symbolic PathFinder (SPF) in rigorously testing the Java Library Management System. By replacing concrete inputs with symbolic variables, SPF automatically explored numerous execution paths, systematically testing the complex logic of the application.
 
-The primary benefit of this approach was the ability to achieve high branch coverage. For each path it explored, SPF generated a set of constraints that were then solved to produce concrete test cases. These test cases effectively targeted specific conditions—such as different student types, book availability, and fine calculations—ensuring that a wide variety of scenarios were validated. The evolution from `LibReturnBook` V1 to V2 clearly showed how refining symbolic drivers can significantly increase this coverage.
+The primary benefit of this approach was the ability to achieve high branch coverage. For each path it explored, SPF generated a set of constraints that were then solved to produce concrete test cases. These test cases effectively targeted specific conditions, such as different student types, book availability, and fine calculations, ensuring that a wide variety of scenarios were validated. The evolution from `LibReturnBook` V1 to V2 clearly showed how refining symbolic drivers can significantly increase this coverage.
 
 In essence, symbolic execution served as both a powerful analysis tool and an automated test case generator, providing high confidence in the system's correctness by ensuring its critical logic paths were thoroughly exercised.
 
