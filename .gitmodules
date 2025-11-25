@@ -1,0 +1,3 @@
+[submodule "jpf-symbc"]
+	path = jpf-symbc
+	url = https://github.com/SymbolicPathFinder/jpf-symbc
