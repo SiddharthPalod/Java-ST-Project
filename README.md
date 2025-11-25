@@ -172,9 +172,6 @@ The primary benefit of this approach was the ability to achieve high branch cove
 In essence, symbolic execution served as both a powerful analysis tool and an automated test case generator, providing high confidence in the system's correctness by ensuring its critical logic paths were thoroughly exercised.
 
 ## Contributors
-
-This project was a collaborative effort. The core Java application and the symbolic test drivers were developed and analyzed by the following contributors:
-
 -   **Siddharth Palod (IMT2022002)**: Developed and symbolically tested the programs for renewing, reserving, returning, and searching books (`LibRenewBook.java`, `LibReserveBook.java`, `LibReturnBook.java`, `LibSearchBook.java`).
 -   **Shreyas S (IMT2022078)**: Developed and symbolically tested the programs for adding books and students, and issuing books and library cards (`LibAddBook.java`, `LibAddStudent.java`, `LibIssueBook.java`, `LibIssueCard.java`).
 
