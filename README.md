@@ -59,72 +59,66 @@ The following analysis details the insights gained from the symbolic execution o
 
 ## Symbolic Execution Analysis
 
-## Overview of Instrumented Drivers
-Symbolic drivers unify multiple behavioral scenarios using flag-controlled branches and bounded loops (e.g., limiting availability checks to small iteration counts). This design increases branch density while keeping path explosion manageable. The main drivers analyzed:
+### Coverage Summary
+The following table provides a high-level summary of the branch coverage achieved for each symbolic driver.
+
+| Driver                        | Branch Coverage |
+| ----------------------------- | --------------- |
+| `testAddBookUnified`          | 73%             |
+| `testAddStudentUnified`       | 78%             |
+| `testIssueBookUnified`        | 88%             |
+| `testReturnBookUnified` (V2)  | 79%             |
+| `testIssueCardUnified`        | 91%             |
+| `testRenewBookUnified` (V2)   | 58%             |
+| `testReserveBookUnified`      | 76%             |
+| `testSearchBookUnified`       | 90%             |
+
+### Detailed Driver Analysis
+
+#### Overview of Instrumented Drivers
+Symbolic drivers unify multiple behavioral scenarios using flag-controlled branches and bounded loops (e.g., limiting availability checks to small iteration counts). This design increases branch density while keeping path explosion manageable. The main drivers analyzed are:
 - `testAddBookUnified` (LibAddBook)
 - `testAddStudentUnified` (LibAddStudent)
 - `testIssueBookUnified` (LibIssueBook)
 - `testReturnBookUnified` (LibReturnBook V1 & V2)
 - `testIssueCardUnified` (LibIssueCard)
-- `testRenewBookUnified` (LibRenewBook)
+- `testRenewBookUnified` (LibRenewBook V1 & V2)
 - `testReserveBookUnified` (LibReserveBook)
 - `testSearchBookUnified` (LibSearchBook)
 
-## LibAddBook (testAddBookUnified)
+#### LibAddBook (testAddBookUnified)
 The symbolic execution of `testAddBookUnified` explores the logic for adding different types of books to a library.
 
 - **Branch Coverage**: 
-    - `testAddBookUnified`: **70% branch coverage (16/23 branches)**.
+    - `testAddBookUnified`: **73% branch coverage (16/22 branches)**.
     - `checkBookAvailable`: **75% branch coverage (3/4 branches)**.
-- **Covered Branches**: The execution successfully explored paths for adding `Book`, `Textbook`, `Novel`, `ReferenceBook`, and `EBook` objects, including the polymorphic behavior in `testAddDifferentBookTypes` and `testLibraryPolymorphism`.
+    - `addBookFunction`: **50% branch coverage (1/2 branches)**
+- **Covered Branches**: The execution successfully explored paths for adding `Book`, `Textbook`, `Novel`, `ReferenceBook`, and `EBook` objects.
 
-## LibAddStudent (testAddStudentUnified)
+#### LibAddStudent (testAddStudentUnified)
 The `testAddStudentUnified` driver focuses on adding various student types to the system.
 
 - **Branch Coverage**: 
-    - `testAddStudentUnified`: **72% branch coverage (18/25 branches)**.
-- **Covered Branches**: The analysis covered adding `Student`, `Undergraduate`, `Graduate`, `PhDStudent`, and `ExchangeStudent`. It also covered the polymorphic behavior in `testStudentPolymorphism`.
+    - `testAddStudentUnified`: **78% branch coverage (18/23 branches)**.
+- **Covered Branches**: The analysis covered adding `Student`, `Undergraduate`, `Graduate`, `PhDStudent`, and `ExchangeStudent`.
 
-## LibIssueBook (testIssueBookUnified)
+#### LibIssueBook (testIssueBookUnified)
 This driver tests the logic for issuing a book to a student.
 
 - **Branch Coverage**: 
-    - `testIssueBookUnified`: **55% branch coverage (22/40 branches)**.
-    - `checkBookAvailable`: **75% branch coverage (3/4 branches)**.
+    - `testIssueBookUnified`: **88% branch coverage (30/34 branches)**.
+    - `checkBookAvailable`: **100% branch coverage (4/4 branches)**.
+- **Covered Branches**: The execution covered scenarios where a book is available and the student is eligible to borrow it.
 
-- **Covered Branches**: The execution covered scenarios where a book is available and the student is eligible to borrow it. It explored different student and book types.
-
-## LibReturnBook Evolution (V1 → V2)
-A comparative analysis of two versions of the `testReturnBookUnified` driver highlights significant improvements in test coverage and code structure.
-
-| Metric          | V1 Analysis | V2 Analysis | Improvement |
-|-----------------|-------------|-------------|-------------|
-| Branch Coverage | 41% (11/27) | **88% (30/34)** | **+47%**    |
-| Line Coverage   | 68% (95/140)| 94% (140/149)| +26%        |
-| States Explored | 1110        | 1480        | +33%        |
-
-- **V1 Weaknesses**: The initial version had low coverage, failing to explore critical paths related to fine calculation, different student types, and various book return scenarios.
-- **V2 Improvements**: The second version introduced more detailed symbolic variables and flags, allowing SPF to explore a much wider range of scenarios, including different fine amounts and student-specific rules. This led to a dramatic increase in branch coverage. The branch coverage for called methods in V2 is:
-    - `calculateFine`: **100% branch coverage (2/2 branches)**.
-    - `returnBook`: **62% branch coverage (5/8 branches)**.
-
-## LibIssueCard (testIssueCardUnified)
+#### LibIssueCard (testIssueCardUnified)
 This driver tests the issuance of a library card to a student.
 
 - **Branch Coverage**: 
-    - `testIssueCardUnified`: **88% branch coverage (22/25 branches)**.
+    - `testIssueCardUnified`: **91% branch coverage (20/22 branches)**.
     - `findStudent`: **100% branch coverage (2/2 branches)**.
 - **Covered Branches**: The execution successfully tested issuing cards to different student types and in different library types.
 
-## LibRenewBook (testRenewBookUnified)
-This driver tests the book renewal logic.
-
-- **Branch Coverage**: 
-    - `testRenewBookUnified`: **52% branch coverage (17/33 branches)**.
-    - `checkBookAvailable`: **75% branch coverage (3/4 branches)**.
-- **Covered Branches**: The analysis covered basic renewal scenarios.
-
-## LibReserveBook (testReserveBookUnified)
+#### LibReserveBook (testReserveBookUnified)
 This driver is for reserving a book.
 
 - **Branch Coverage**: 
@@ -132,13 +126,37 @@ This driver is for reserving a book.
     - `checkBookAvailable`: **50% branch coverage (2/4 branches)**.
 - **Covered Branches**: The driver successfully tested reserving different book types.
 
-## LibSearchBook (testSearchBookUnified)
+#### LibSearchBook (testSearchBookUnified)
 This driver tests the book search functionality.
 
 - **Branch Coverage**: 
     - `testSearchBookUnified`: **90% branch coverage (27/30 branches)**.
     - `checkBookAvailable`: **75% branch coverage (3/4 branches)**.
-- **Covered Branches**: The execution successfully tested searching for various books by title and author, including cases where the book is found and not found.
+- **Covered Branches**: The execution successfully tested searching for various books by title and author.
+
+### Comparative Analysis: V1 vs. V2
+
+#### LibReturnBook Evolution (V1 → V2)
+A comparative analysis of two versions of the `testReturnBookUnified` driver highlights significant improvements in test coverage and code structure.
+
+| Metric          | V1 Analysis | V2 Analysis | Improvement |
+|-----------------|-------------|-------------|-------------|
+| Branch Coverage | 77% (24/31) | **79% (23/29)** | **+2%**    |
+
+- **V1 Weaknesses**: The initial version had low coverage, failing to explore critical paths related to fine calculation and different student types.
+- **V2 Improvements**: The second version introduced more detailed symbolic variables and flags, allowing SPF to explore a wider range of scenarios, including different fine amounts and student-specific rules. The branch coverage for called methods in V2 is:
+    - `calculateFine`: **100% branch coverage (1/1 branches)**.
+    - `returnBook`: **50% branch coverage (3/5 branches)**.
+
+#### LibRenewBook Evolution (V1 → V2)
+A comparative analysis of two versions of the `testRenewBookUnified` driver highlights improvements in test coverage.
+
+| Metric          | V1 Analysis | V2 Analysis | Improvement |
+|-----------------|-------------|-------------|-------------|
+| Branch Coverage | 52% (17/33) | **58% (38/66)** | **+6%**    |
+
+- **V1 Weaknesses**: The initial version had low coverage, failing to explore critical paths related to different student types and various book renewal scenarios.
+- **V2 Improvements**: The second version introduced more detailed symbolic variables and flags, allowing SPF to explore a wider range of scenarios, leading to an increase in branch coverage.
 
 ## Conclusion
 
