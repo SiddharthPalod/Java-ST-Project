@@ -11,11 +11,13 @@ The domain model is built around a clear class hierarchy. Key entities include:
 
 The system supports a range of standard library operations, including adding new books and students, issuing books to members, processing returns, calculating fines, renewing borrowed items, and searching the catalog.
 
+## Problem Statement
+
+The goal of this project is to maximize code coverage for a Java Library Management System using symbolic execution. Traditional testing can miss complex execution paths, so we use Symbolic PathFinder (SPF) to systematically explore branches and automatically generate test cases, ensuring a more thorough analysis than manual testing.
+
 ## Adaptation for Symbolic Execution
 
-To rigorously test the system's logic, the source code was analyzed using **Symbolic PathFinder (SPF)**, an extension of the **Java PathFinder (JPF)** framework that enables symbolic execution. Symbolic execution is a powerful testing technique that explores multiple execution paths of a program simultaneously without requiring concrete input values.
-
-To facilitate this, some of the original methods were adapted or rewritten into specialized **symbolic drivers**. These drivers replace concrete inputs with symbolic variables, allowing SPF to automatically explore different conditions and branches in the code. For example, instead of testing with a single student ID, a symbolic variable is used to represent all possible student IDs. This approach enables the discovery of edge-case bugs and ensures a high degree of branch coverage, which might be missed with traditional testing methods.
+The system's logic was tested using **Symbolic PathFinder (SPF)**, a symbolic execution engine. To enable this, original methods were rewritten into **symbolic drivers** that use symbolic variables instead of concrete inputs. This allows SPF to explore numerous execution paths automatically, ensuring high branch coverage and the discovery of edge-case bugs that traditional testing might miss.
 ## Prerequisites and Setup
 
 1. **Clone the SPF Repository**  
